@@ -448,7 +448,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7b79b5624d944058bd39aad2b90fb275, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  productId: slimegoo_inapp_5
+  productId: zuppi_inapp_5
   buttonType: 0
   consumePurchase: 1
   onTransactionsRestored:
@@ -2042,7 +2042,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7b79b5624d944058bd39aad2b90fb275, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  productId: slimegoo_inapp_1
+  productId: zuppi_inapp_1
   buttonType: 0
   consumePurchase: 1
   onTransactionsRestored:
@@ -2622,7 +2622,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7b79b5624d944058bd39aad2b90fb275, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  productId: slimegoo_inapp_1
+  productId: zuppi_inapp_1
   buttonType: 0
   consumePurchase: 1
   onTransactionsRestored:
@@ -2813,7 +2813,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7b79b5624d944058bd39aad2b90fb275, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  productId: slimegoo_inapp_1
+  productId: zuppi_inapp_1
   buttonType: 0
   consumePurchase: 1
   onTransactionsRestored:
@@ -3293,7 +3293,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7b79b5624d944058bd39aad2b90fb275, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  productId: slimegoo_inapp_4
+  productId: zuppi_inapp_4
   buttonType: 0
   consumePurchase: 1
   onTransactionsRestored:
@@ -4815,7 +4815,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7b79b5624d944058bd39aad2b90fb275, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  productId: slimegoo_inapp_2
+  productId: zuppi_inapp_2
   buttonType: 0
   consumePurchase: 1
   onTransactionsRestored:
@@ -5005,7 +5005,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7b79b5624d944058bd39aad2b90fb275, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  productId: slimegoo_inapp_7
+  productId: zuppi_inapp_7
   buttonType: 0
   consumePurchase: 1
   onTransactionsRestored:
@@ -5982,7 +5982,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7b79b5624d944058bd39aad2b90fb275, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  productId: slimegoo_inapp_1
+  productId: zuppi_inapp_1
   buttonType: 0
   consumePurchase: 1
   onTransactionsRestored:
@@ -6563,7 +6563,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7b79b5624d944058bd39aad2b90fb275, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  productId: slimegoo_inapp_10
+  productId: zuppi_inapp_10
   buttonType: 0
   consumePurchase: 1
   onTransactionsRestored:
@@ -8059,7 +8059,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7b79b5624d944058bd39aad2b90fb275, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  productId: slimegoo_inapp_1
+  productId: zuppi_inapp_1
   buttonType: 0
   consumePurchase: 1
   onTransactionsRestored:
@@ -9061,7 +9061,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7b79b5624d944058bd39aad2b90fb275, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  productId: slimegoo_inapp_8
+  productId: zuppi_inapp_8
   buttonType: 0
   consumePurchase: 1
   onTransactionsRestored:
@@ -10895,7 +10895,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7b79b5624d944058bd39aad2b90fb275, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  productId: slimegoo_inapp_1
+  productId: zuppi_inapp_1
   buttonType: 0
   consumePurchase: 1
   onTransactionsRestored:
@@ -11165,7 +11165,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7b79b5624d944058bd39aad2b90fb275, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  productId: slimegoo_inapp_1
+  productId: zuppi_inapp_1
   buttonType: 0
   consumePurchase: 1
   onTransactionsRestored:
@@ -11430,7 +11430,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7b79b5624d944058bd39aad2b90fb275, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  productId: slimegoo_inapp_12
+  productId: zuppi_inapp_12
   buttonType: 0
   consumePurchase: 1
   onTransactionsRestored:
@@ -11921,7 +11921,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7b79b5624d944058bd39aad2b90fb275, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  productId: slimegoo_inapp_6
+  productId: zuppi_inapp_6
   buttonType: 0
   consumePurchase: 1
   onTransactionsRestored:
@@ -12420,7 +12420,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7b79b5624d944058bd39aad2b90fb275, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  productId: slimegoo_inapp_11
+  productId: zuppi_inapp_11
   buttonType: 0
   consumePurchase: 1
   onTransactionsRestored:
@@ -12920,7 +12920,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7b79b5624d944058bd39aad2b90fb275, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  productId: slimegoo_inapp_1
+  productId: zuppi_inapp_1
   buttonType: 0
   consumePurchase: 1
   onTransactionsRestored:
@@ -13110,7 +13110,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7b79b5624d944058bd39aad2b90fb275, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  productId: slimegoo_inapp_3
+  productId: zuppi_inapp_3
   buttonType: 0
   consumePurchase: 1
   onTransactionsRestored:
@@ -13301,7 +13301,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7b79b5624d944058bd39aad2b90fb275, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  productId: slimegoo_inapp_1
+  productId: zuppi_inapp_1
   buttonType: 0
   consumePurchase: 1
   onTransactionsRestored:
@@ -14396,7 +14396,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7b79b5624d944058bd39aad2b90fb275, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  productId: slimegoo_inapp_9
+  productId: zuppi_inapp_9
   buttonType: 0
   consumePurchase: 1
   onTransactionsRestored:
@@ -15390,7 +15390,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7b79b5624d944058bd39aad2b90fb275, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  productId: slimegoo_inapp_13
+  productId: zuppi_inapp_13
   buttonType: 0
   consumePurchase: 1
   onTransactionsRestored:
@@ -15581,7 +15581,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7b79b5624d944058bd39aad2b90fb275, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  productId: slimegoo_inapp_1
+  productId: zuppi_inapp_1
   buttonType: 0
   consumePurchase: 1
   onTransactionsRestored:
@@ -15772,7 +15772,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7b79b5624d944058bd39aad2b90fb275, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  productId: slimegoo_inapp_1
+  productId: zuppi_inapp_1
   buttonType: 0
   consumePurchase: 1
   onTransactionsRestored:
@@ -16405,7 +16405,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7b79b5624d944058bd39aad2b90fb275, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  productId: slimegoo_inapp_1
+  productId: zuppi_inapp_1
   buttonType: 0
   consumePurchase: 1
   onTransactionsRestored:
@@ -17134,7 +17134,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7b79b5624d944058bd39aad2b90fb275, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  productId: slimegoo_inapp_1
+  productId: zuppi_inapp_1
   buttonType: 0
   consumePurchase: 1
   onTransactionsRestored:

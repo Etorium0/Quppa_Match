@@ -299,7 +299,7 @@ public class GameMgr : SingletonMonoBehaviour<GameMgr>
 		if (revieveCount < 1)
 		{
 			string title = (!isTimesup) ? "Out of swap" : "Time's up!";
-			string message = (!isTimesup) ? "Watch a video to get 2 lives" : "Watch a video to revive & get 60s plus";
+			string message = (!isTimesup) ? "You fail" : "You fail";
 			SingletonMonoBehaviour<DialogMessage>.Instance.OpenDialog(title, message, "Cancel", "Watch", delegate
 			{
                 aaaa = isTimesup;

@@ -1,1 +1,437 @@
-{"appleSKU":"","appleTeamID":"","enableCodelessAutoInitialization":true,"enableUnityGamingServicesAutoInitialization":false,"products":[{"id":"slimegoo_inapp_1","type":0,"storeIDs":[],"defaultDescription":{"googleLocale":4,"title":"","description":""},"screenshotPath":"","applePriceTier":0,"googlePrice":{"data":[0,0,0,0],"num":0.0},"pricingTemplateID":"","descriptions":[],"udpPrice":{"data":[0,0,0,0],"num":0.0},"payouts":[]},{"id":"slimegoo_inapp_2","type":0,"storeIDs":[],"defaultDescription":{"googleLocale":4,"title":"","description":""},"screenshotPath":"","applePriceTier":0,"googlePrice":{"data":[0,0,0,0],"num":0.0},"pricingTemplateID":"","descriptions":[],"udpPrice":{"data":[0,0,0,0],"num":0.0},"payouts":[]},{"id":"slimegoo_inapp_3","type":0,"storeIDs":[],"defaultDescription":{"googleLocale":4,"title":"","description":""},"screenshotPath":"","applePriceTier":0,"googlePrice":{"data":[0,0,0,0],"num":0.0},"pricingTemplateID":"","descriptions":[],"udpPrice":{"data":[0,0,0,0],"num":0.0},"payouts":[]},{"id":"slimegoo_inapp_4","type":0,"storeIDs":[],"defaultDescription":{"googleLocale":4,"title":"","description":""},"screenshotPath":"","applePriceTier":0,"googlePrice":{"data":[0,0,0,0],"num":0.0},"pricingTemplateID":"","descriptions":[],"udpPrice":{"data":[0,0,0,0],"num":0.0},"payouts":[]},{"id":"slimegoo_inapp_5","type":0,"storeIDs":[],"defaultDescription":{"googleLocale":4,"title":"","description":""},"screenshotPath":"","applePriceTier":0,"googlePrice":{"data":[0,0,0,0],"num":0.0},"pricingTemplateID":"","descriptions":[],"udpPrice":{"data":[0,0,0,0],"num":0.0},"payouts":[]},{"id":"slimegoo_inapp_6","type":0,"storeIDs":[],"defaultDescription":{"googleLocale":4,"title":"","description":""},"screenshotPath":"","applePriceTier":0,"googlePrice":{"data":[0,0,0,0],"num":0.0},"pricingTemplateID":"","descriptions":[],"udpPrice":{"data":[0,0,0,0],"num":0.0},"payouts":[]},{"id":"slimegoo_inapp_7","type":0,"storeIDs":[],"defaultDescription":{"googleLocale":4,"title":"","description":""},"screenshotPath":"","applePriceTier":0,"googlePrice":{"data":[0,0,0,0],"num":0.0},"pricingTemplateID":"","descriptions":[],"udpPrice":{"data":[0,0,0,0],"num":0.0},"payouts":[]},{"id":"slimegoo_inapp_8","type":0,"storeIDs":[],"defaultDescription":{"googleLocale":4,"title":"","description":""},"screenshotPath":"","applePriceTier":0,"googlePrice":{"data":[0,0,0,0],"num":0.0},"pricingTemplateID":"","descriptions":[],"udpPrice":{"data":[0,0,0,0],"num":0.0},"payouts":[]},{"id":"slimegoo_inapp_9","type":0,"storeIDs":[],"defaultDescription":{"googleLocale":4,"title":"","description":""},"screenshotPath":"","applePriceTier":0,"googlePrice":{"data":[0,0,0,0],"num":0.0},"pricingTemplateID":"","descriptions":[],"udpPrice":{"data":[0,0,0,0],"num":0.0},"payouts":[]},{"id":"slimegoo_inapp_10","type":0,"storeIDs":[],"defaultDescription":{"googleLocale":4,"title":"","description":""},"screenshotPath":"","applePriceTier":0,"googlePrice":{"data":[0,0,0,0],"num":0.0},"pricingTemplateID":"","descriptions":[],"udpPrice":{"data":[0,0,0,0],"num":0.0},"payouts":[]},{"id":"slimegoo_inapp_11","type":0,"storeIDs":[],"defaultDescription":{"googleLocale":4,"title":"","description":""},"screenshotPath":"","applePriceTier":0,"googlePrice":{"data":[0,0,0,0],"num":0.0},"pricingTemplateID":"","descriptions":[],"udpPrice":{"data":[0,0,0,0],"num":0.0},"payouts":[]},{"id":"slimegoo_inapp_12","type":0,"storeIDs":[],"defaultDescription":{"googleLocale":4,"title":"","description":""},"screenshotPath":"","applePriceTier":0,"googlePrice":{"data":[0,0,0,0],"num":0.0},"pricingTemplateID":"","descriptions":[],"udpPrice":{"data":[0,0,0,0],"num":0.0},"payouts":[]},{"id":"slimegoo_inapp_13","type":0,"storeIDs":[],"defaultDescription":{"googleLocale":4,"title":"","description":""},"screenshotPath":"","applePriceTier":0,"googlePrice":{"data":[0,0,0,0],"num":0.0},"pricingTemplateID":"","descriptions":[],"udpPrice":{"data":[0,0,0,0],"num":0.0},"payouts":[]}]}
+{
+  "appleSKU": "",
+  "appleTeamID": "",
+  "enableCodelessAutoInitialization": true,
+  "enableUnityGamingServicesAutoInitialization": false,
+  "products": [
+    {
+      "id": "zuppi_inapp_1",
+      "type": 0,
+      "storeIDs": [],
+      "defaultDescription": {
+        "googleLocale": 4,
+        "title": "",
+        "description": ""
+      },
+      "screenshotPath": "",
+      "applePriceTier": 0,
+      "googlePrice": {
+        "data": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "num": 0.0
+      },
+      "pricingTemplateID": "",
+      "descriptions": [],
+      "udpPrice": {
+        "data": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "num": 0.0
+      },
+      "payouts": []
+    },
+    {
+      "id": "zuppi_inapp_2",
+      "type": 0,
+      "storeIDs": [],
+      "defaultDescription": {
+        "googleLocale": 4,
+        "title": "",
+        "description": ""
+      },
+      "screenshotPath": "",
+      "applePriceTier": 0,
+      "googlePrice": {
+        "data": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "num": 0.0
+      },
+      "pricingTemplateID": "",
+      "descriptions": [],
+      "udpPrice": {
+        "data": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "num": 0.0
+      },
+      "payouts": []
+    },
+    {
+      "id": "zuppi_inapp_3",
+      "type": 0,
+      "storeIDs": [],
+      "defaultDescription": {
+        "googleLocale": 4,
+        "title": "",
+        "description": ""
+      },
+      "screenshotPath": "",
+      "applePriceTier": 0,
+      "googlePrice": {
+        "data": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "num": 0.0
+      },
+      "pricingTemplateID": "",
+      "descriptions": [],
+      "udpPrice": {
+        "data": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "num": 0.0
+      },
+      "payouts": []
+    },
+    {
+      "id": "zuppi_inapp_4",
+      "type": 0,
+      "storeIDs": [],
+      "defaultDescription": {
+        "googleLocale": 4,
+        "title": "",
+        "description": ""
+      },
+      "screenshotPath": "",
+      "applePriceTier": 0,
+      "googlePrice": {
+        "data": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "num": 0.0
+      },
+      "pricingTemplateID": "",
+      "descriptions": [],
+      "udpPrice": {
+        "data": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "num": 0.0
+      },
+      "payouts": []
+    },
+    {
+      "id": "zuppi_inapp_5",
+      "type": 0,
+      "storeIDs": [],
+      "defaultDescription": {
+        "googleLocale": 4,
+        "title": "",
+        "description": ""
+      },
+      "screenshotPath": "",
+      "applePriceTier": 0,
+      "googlePrice": {
+        "data": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "num": 0.0
+      },
+      "pricingTemplateID": "",
+      "descriptions": [],
+      "udpPrice": {
+        "data": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "num": 0.0
+      },
+      "payouts": []
+    },
+    {
+      "id": "zuppi_inapp_6",
+      "type": 0,
+      "storeIDs": [],
+      "defaultDescription": {
+        "googleLocale": 4,
+        "title": "",
+        "description": ""
+      },
+      "screenshotPath": "",
+      "applePriceTier": 0,
+      "googlePrice": {
+        "data": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "num": 0.0
+      },
+      "pricingTemplateID": "",
+      "descriptions": [],
+      "udpPrice": {
+        "data": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "num": 0.0
+      },
+      "payouts": []
+    },
+    {
+      "id": "zuppi_inapp_7",
+      "type": 0,
+      "storeIDs": [],
+      "defaultDescription": {
+        "googleLocale": 4,
+        "title": "",
+        "description": ""
+      },
+      "screenshotPath": "",
+      "applePriceTier": 0,
+      "googlePrice": {
+        "data": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "num": 0.0
+      },
+      "pricingTemplateID": "",
+      "descriptions": [],
+      "udpPrice": {
+        "data": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "num": 0.0
+      },
+      "payouts": []
+    },
+    {
+      "id": "zuppi_inapp_8",
+      "type": 0,
+      "storeIDs": [],
+      "defaultDescription": {
+        "googleLocale": 4,
+        "title": "",
+        "description": ""
+      },
+      "screenshotPath": "",
+      "applePriceTier": 0,
+      "googlePrice": {
+        "data": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "num": 0.0
+      },
+      "pricingTemplateID": "",
+      "descriptions": [],
+      "udpPrice": {
+        "data": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "num": 0.0
+      },
+      "payouts": []
+    },
+    {
+      "id": "zuppi_inapp_9",
+      "type": 0,
+      "storeIDs": [],
+      "defaultDescription": {
+        "googleLocale": 4,
+        "title": "",
+        "description": ""
+      },
+      "screenshotPath": "",
+      "applePriceTier": 0,
+      "googlePrice": {
+        "data": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "num": 0.0
+      },
+      "pricingTemplateID": "",
+      "descriptions": [],
+      "udpPrice": {
+        "data": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "num": 0.0
+      },
+      "payouts": []
+    },
+    {
+      "id": "zuppi_inapp_10",
+      "type": 0,
+      "storeIDs": [],
+      "defaultDescription": {
+        "googleLocale": 4,
+        "title": "",
+        "description": ""
+      },
+      "screenshotPath": "",
+      "applePriceTier": 0,
+      "googlePrice": {
+        "data": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "num": 0.0
+      },
+      "pricingTemplateID": "",
+      "descriptions": [],
+      "udpPrice": {
+        "data": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "num": 0.0
+      },
+      "payouts": []
+    },
+    {
+      "id": "zuppi_inapp_11",
+      "type": 0,
+      "storeIDs": [],
+      "defaultDescription": {
+        "googleLocale": 4,
+        "title": "",
+        "description": ""
+      },
+      "screenshotPath": "",
+      "applePriceTier": 0,
+      "googlePrice": {
+        "data": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "num": 0.0
+      },
+      "pricingTemplateID": "",
+      "descriptions": [],
+      "udpPrice": {
+        "data": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "num": 0.0
+      },
+      "payouts": []
+    },
+    {
+      "id": "zuppi_inapp_12",
+      "type": 0,
+      "storeIDs": [],
+      "defaultDescription": {
+        "googleLocale": 4,
+        "title": "",
+        "description": ""
+      },
+      "screenshotPath": "",
+      "applePriceTier": 0,
+      "googlePrice": {
+        "data": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "num": 0.0
+      },
+      "pricingTemplateID": "",
+      "descriptions": [],
+      "udpPrice": {
+        "data": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "num": 0.0
+      },
+      "payouts": []
+    },
+    {
+      "id": "zuppi_inapp_13",
+      "type": 0,
+      "storeIDs": [],
+      "defaultDescription": {
+        "googleLocale": 4,
+        "title": "",
+        "description": ""
+      },
+      "screenshotPath": "",
+      "applePriceTier": 0,
+      "googlePrice": {
+        "data": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "num": 0.0
+      },
+      "pricingTemplateID": "",
+      "descriptions": [],
+      "udpPrice": {
+        "data": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "num": 0.0
+      },
+      "payouts": []
+    }
+  ]
+}

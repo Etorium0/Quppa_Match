@@ -119,6 +119,51 @@ LightmapSettings:
     m_LightProbeSampleCountMultiplier: 4
   m_LightingDataAsset: {fileID: 112000000, guid: b319d94060a972c4ab33a167286cd213, type: 2}
   m_LightingSettings: {fileID: 4890085278179872738, guid: daad58aeb9dd14587982e77c795968cd, type: 2}
+--- !u!1 &645142476
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 645142478}
+  - component: {fileID: 645142477}
+  m_Layer: 0
+  m_Name: IAPManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &645142477
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 645142476}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8cc70d0ed92b36f43863c7d826c58b3b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  canShowShop: 0
+--- !u!4 &645142478
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 645142476}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -4.4551163, y: 1.37358, z: -0.80813456}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &653517414
 GameObject:
   m_ObjectHideFlags: 0
@@ -674,7 +719,7 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: e8141057bfad470b9d953e98e56636f8, type: 3}
+  m_audioClip: {fileID: 0}
   m_Resource: {fileID: 8300000, guid: e8141057bfad470b9d953e98e56636f8, type: 3}
   m_PlayOnAwake: 1
   m_Volume: 1
@@ -3629,3 +3674,4 @@ SceneRoots:
   - {fileID: 1790403725185921786}
   - {fileID: 653517416}
   - {fileID: 1535508833}
+  - {fileID: 645142478}
